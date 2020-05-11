@@ -13,7 +13,9 @@
     * Confidentiality: Against unauthorized access
     * Integrity: Against unauthorized modification
     * Availability: Resources and services are available for legit users
+    * Non-repudiation: Ability to prove that a given message was sent and by whom to a third party not involved in communication.
     * Authenticity and authentication:  Explicit identification of the sender of info or a communication peer
+    * Authorization: limit access to certain (group) of users.
 * **What are passive and active attack?Why those need to be distinct**
      * Passive
           * Attacker doesn't actively participate
